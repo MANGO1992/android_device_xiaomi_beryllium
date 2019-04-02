@@ -18,8 +18,5 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi-rev1
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="beryllium-user 9 PKQ1.180729.001 V10.3.4.0.PEJMIXM release-keys" \
     PRODUCT_NAME="beryllium" \
     TARGET_DEVICE="beryllium"
-
-BUILD_FINGERPRINT := Xiaomi/beryllium/beryllium:9/PKQ1.180729.001/V10.3.4.0.PEJMIXM:user/release-keys
